@@ -1,0 +1,1 @@
+SELECT title, relese_year, aktor FROM film;
